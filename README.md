@@ -7,7 +7,7 @@
 I am a passionate Electronics and Telecommunication Engineer with expertise in embedded hardware development. Hands-on experience in hardware development and a strong interest in VLSI. Passionate about designing efficient and innovative embedded solutions, integrating hardware and software for real-world applications.
 
 ## 🛠️ Skills
-- **Programming Languages:** C | C++ | System Verilog | VHDL | MATLAB
+- **Programming Languages:** C | C++ | System Verilog | MATLAB
 - **Microcontrollers:** ATmega2560 | ESP32 | ARM 7 |
 - **EDA Tools:** Altium | Kicad | LTSpice| NGSpice | PSpice | Vivado | Easy EDA| Keil uVision | Proteus | Arduino IDE 
 
@@ -19,7 +19,7 @@ I am a passionate Electronics and Telecommunication Engineer with expertise in e
 
 
 ## 🌱 Interests
-VLSI, FPGA, Embedded Hardware, Robotics, PCB Desiging
+Verilog, FPGA, Embedded Hardware, Robotics, PCB Desiging
 
 
 
