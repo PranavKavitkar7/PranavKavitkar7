@@ -7,9 +7,9 @@
 I am a passionate Electronics and Telecommunication Engineer with expertise in embedded hardware development. Hands-on experience in hardware development and a strong interest in VLSI. Passionate about designing efficient and innovative embedded solutions, integrating hardware and software for real-world applications.
 
 ## 🛠️ Skills
-- **Programming Languages:** C | C++ | System Verilog | MATLAB
+- **Programming Languages:** C | C++ |  Verilog | 
 - **Microcontrollers:** ATmega2560 | ESP32 | ARM 7 |
-- **EDA Tools:** Altium | Kicad | LTSpice| NGSpice | PSpice | Vivado | Easy EDA| Keil uVision | Proteus | Arduino IDE 
+- **EDA Tools:**  | Vivado | LTSpice| NGSpice | Altium Desinger |  Easy EDA| Keil uVision | Proteus | Arduino IDE | Lattice Radience
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/pranavkavitkar/)
