@@ -8,8 +8,8 @@ I am a passionate Electronics and Telecommunication Engineer with expertise in e
 
 ## 🛠️ Skills
 - **Programming Languages:** C | C++ |  Verilog | 
-- **Microcontrollers:** ATmega2560 | ESP32 | ARM 7 |
-- **EDA Tools:**  | Vivado | LTSpice| NGSpice | Altium Desinger |  Easy EDA| Keil uVision | Proteus | Arduino IDE | Lattice Radience
+- **Microcontrollers & FPGA Boards:**  KRIA KR 260 | STM32 | ATmega2560 | ESP32 | ARM 7 |
+- **EDA Tools:**  | Vivado | Vitis | LTSpice| NGSpice | Altium Desinger |  Easy EDA | Keil uVision | Proteus | Arduino IDE | Lattice Radience
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/pranavkavitkar/)
